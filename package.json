@@ -21,7 +21,16 @@
   },
   "homepage": "https://github.com/Quartzy0/KahootSmasher#readme",
   "dependencies": {
+    "body-parser": "latest",
+    "bufferutil": "^4.0.1",
+    "ejs": "^2.7.1",
     "express": "^4.17.1",
-    "kahoot-api": "^0.9.3"
+    "kahoot-api": "^0.9.3",
+    "kahoot.js": "^1.0.0",
+    "kahoot.js-updated": "^1.1.7",
+    "promise": "^8.0.3",
+    "random-js": "^2.1.0",
+    "utf-8-validate": "^5.0.2",
+    "ws": "^7.1.2"
   }
 }
